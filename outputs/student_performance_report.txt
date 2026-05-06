@@ -1,0 +1,29 @@
+STUDENT PERFORMANCE ANALYSIS - SUMMARY REPORT
+=================================================================================
+
+1. CLASS STATISTICS (SUBJECT-WISE)
+----------------------------------
+         Math  Physics  Chemistry  English  Biology
+mean    65.50    65.74      68.20    66.30    68.78
+median  67.00    65.00      66.00    66.00    71.00
+std     18.28    20.57      19.31    21.43    19.77
+
+2. GRADE BREAKDOWN
+------------------
+Grade
+B     2
+C    15
+D    19
+F    14
+
+3. TOP 5 PERFORMING STUDENTS
+----------------------------
+      Name  Total_Marks  Average_Marks Grade
+ Student_6          449           89.8     B
+ Student_5          411           82.2     B
+Student_29          399           79.8     C
+Student_26          396           79.2     C
+ Student_4          391           78.2     C
+
+=================================================================================
+Report automatically generated from NumPy/Pandas analysis.
